@@ -22,4 +22,3 @@ This is a simple details saver tool made in Python
 Your details will be saved in personal_details.txt
 Now lets enter all the juicy info you have found
 First and last name:
-
